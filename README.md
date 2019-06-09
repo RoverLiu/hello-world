@@ -1,3 +1,3 @@
 # hello-world
-hello, world. (tutorial)
+Hello, World. (tutorial)
 My name is Rover.
